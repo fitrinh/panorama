@@ -1,1 +1,1 @@
-# panorama
+http://fitrinh.github.io/panorama
